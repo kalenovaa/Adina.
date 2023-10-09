@@ -14,7 +14,6 @@ gmailButton.onclick = () => {
         gmailResult.style.color = 'red'
     }
 }
-
 //DZ1_02
 let counter = 0
 function moveBlock (){
@@ -26,14 +25,3 @@ function moveBlock (){
     }
 }
 moveBlock()
-
-
-
-
-
-
-
-
-
-
-
