@@ -1,0 +1,24 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.person-card {
+    border: 1px solid #ccc;
+    padding: 30px;
+    margin: 10px;
+    background-color: #fff;
+}
+
+.person-card h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+img {
+    height: 150px;
+    width: 170px;
+}
+.style-btn {
+    text-align: center;
+}

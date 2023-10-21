@@ -51,5 +51,24 @@
 //     return console.log(element + indexElement)
 // })
 
+// lesson 4
+// JSON
+
+const obj = {
+    name: "Nurdin",
+    age: 19
+}
+// XMLHttRequest
+
+
+
+
+
+
+
+
+
+
+
 
 
