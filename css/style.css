@@ -1,8 +1,7 @@
-/* HEADER */
 
 .header {
     height: 80px;
-    background: #2c2d2f;
+    background: #49b69c;
     display: flex;
     align-items: center;
     width: 100%;
@@ -55,8 +54,13 @@
 
 .main_block {
     padding: 100px 0;
-    background: black;
+    background-image: url("https://upload.wikimedia.org/wikipedia/ru/4/4d/SpongeBob_SquarePants_characters_cast.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
 }
+
 
 /* BUTTONS COLOR PICKER */
 
@@ -74,7 +78,7 @@
 /* FOOTER */
 
 .footer {
-    background: #2c2d2f;
+    background: #1554d3;
     width: 100%;
 }
 
@@ -96,7 +100,11 @@
 
 .slider_block {
     padding: 100px 0;
-    background: black;
+    background-image: url("https://sun9-35.userapi.com/impf/c850628/v850628443/546c8/89R73k4cX2k.jpg?size=630x315&quality=96&sign=97468f0abc4f6191e12233edef092e83&type=album");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
 }
 
 .slider {
@@ -153,7 +161,7 @@
 /* VIDEO BLOCK */
 
 .block_video {
-    background: black;
+    background-image: url("https://phonoteka.org/uploads/posts/2021-04/1618445382_2-phonoteka_org-p-gubka-bob-fon-2.jpg");
     padding: 100px 0;
 }
 
@@ -185,7 +193,7 @@
     position: relative;
     width: 100%;
     padding: 40px;
-    background-color: black;
+    background-color: #4f9b5a;
     border: 2px solid var(--orange);
     border-radius: 4px;
     max-height: 80vh;
@@ -203,7 +211,7 @@
     top: 8px;
     right: 14px;
     font-size: 30px;
-    color: red;
+    color: #070303;
     opacity: 0.5;
     font-weight: 700;
     border: none;
@@ -227,8 +235,12 @@
 /*-------BOTTLE-------*/
 
 .botlle {
-    background: black;
+    background-image:url("https://cdn.lifehacker.ru/wp-content/uploads/2018/11/Plankton-spongebob-squarepants-40608790-1152-864_1543413943-630x315.jpg");
     padding: 100px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
 }
 
 .bottle_inner {

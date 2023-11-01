@@ -2,7 +2,7 @@
 /* PHONE CHECKER */
 
 .phone_block {
-    background: black;
+    background-image: url("https://s.afisha.ru/mediastorage/dc/eb/28c05adf336a42209e43b4d0ebdc.jpg");
     padding: 100px 0;
 }
 
@@ -30,8 +30,12 @@
 /* TAB SLIDER */
 
 .tab_slider {
-    background: black;
+    background-image:url("https://i.ytimg.com/vi/3kcjVvzdPiw/maxresdefault.jpg");
     padding: 100px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
 }
 
 .tab_content_block {
@@ -89,10 +93,12 @@
 /*------CARD SWITCHER------*/
 
 .card_switcher {
-    background-color: black;
+    background-image: url("https://www.soyuz.ru/public/uploads/files/2/6867034/201611111111573252fcfe5b.jpg");
     padding: 100px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 190vh;
 }
-
 .card {
     width: 500px;
     height: 150px;
@@ -128,7 +134,9 @@
 
 .converter {
     padding: 100px 0;
-    background-color: black;
+    background-image: url("https://cs10.pikabu.ru/post_img/big/2020/02/29/5/1582961407174965806.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .inner_converter {
@@ -149,7 +157,10 @@
 
 .weather {
     padding: 100px 0;
-    background-color: black;
+    background-image: url("https://resizer.mail.ru/p/65e92c26-7606-5773-9e5a-ff1f62e8c411/AQACYT9Zb10FgtNG8H2qE_K0VEJMa7nPh9Xou0YP-t_04N5V_ISGFqO4-etpLKM6dWGW-1xY1wgDPkCe7oUaXYI9kBk.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 190vh;
 }
 
 .inner_weather > div {

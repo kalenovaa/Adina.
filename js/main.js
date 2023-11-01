@@ -30,7 +30,6 @@ window.onkeydown = (event) => {
 }
 
 // SLIDER BLOCK
-
 const slides = document.querySelectorAll('.slide')
 const next = document.querySelector('#next')
 const prev = document.querySelector('#prev')
